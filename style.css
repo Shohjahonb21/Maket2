@@ -125,11 +125,6 @@ padding: 48px 0;
     margin-bottom: 73px;
     margin-top: 152px;
 }
-.imgs_{
-      filter: contrast(150%) brightness(110%) saturate(120%);
-}
-
-
 
 @media (max-width:900px){
     .box{
